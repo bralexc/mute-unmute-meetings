@@ -2,6 +2,8 @@
 
 This script provides a convenient way to mute/unmute popular meeting applications like MS Teams, Google Meet, Zoom, Webex, and Skype using global hotkeys. It's designed to run in the background and allows for easy switching between applications.
 
+![Mute/Unmute Meetings window](window.png)
+
 ## Features
 
 - Set global hotkeys for muting/unmuting different meeting apps.
